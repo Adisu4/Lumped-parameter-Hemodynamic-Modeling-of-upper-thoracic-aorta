@@ -1,6 +1,6 @@
 # Hemodynamic Modeling of Upper Thoracic Aorta and ODEs. 
 This repository contains the Python source code and detailed report for the task on 0D lumped-parameter blood flow modeling, parameter calibration, and identifiability analysis
-# Upper Thoracic Aorta Hemodynamic Modeling
+
 
 ## Overview
 This project implements a zero-dimensional (0D) hemodynamic model of the upper thoracic aorta coupled with a Windkessel terminal model. The simulation is based on a system of ordinary differential equations (ODEs) that model blood flow and pressure in the vessel using the forward Euler method.
